@@ -1,0 +1,14 @@
+{
+    "name": "vendor/rico",
+    "description": "kahit ano",
+    "type": "y",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "license": "y",
+    "autoload": {
+        "psr-4": {
+            "Vendor\\Rico\\": "src/"
+        }
+    }
+}
